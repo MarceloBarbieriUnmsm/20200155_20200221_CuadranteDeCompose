@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">20200155_20200221_CuadranteDeCompose</string>
+    <string name="primer_titulo">Text composable</string>
+    <string name="segundo_titulo">Image composable</string>
+    <string name="tercer_titulo">Row composable</string>
+    <string name="cuarto_titulo">Column composable</string>
+    <string name="primer_cuerpo">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="segundo_cuerpo">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="tercer_cuerpo">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="cuarto_cuerpo">A layout composable that places its children in a vertical sequence.</string>
+</resources>
